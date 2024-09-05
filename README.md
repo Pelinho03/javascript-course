@@ -21,4 +21,45 @@ Aqui estão algumas das tecnologias que são utilizadas ao longo do curso:
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📈 Progresso do Curso
+
+-   [x] Introdução ao JavaScript
+-   [x] Variáveis e Operadores
+-   [x] Arrays e Objetos
+-   [x] Funções
+-   [x] Manipulação do DOM
+-   [x] Eventos e Interações
+-   [x] Promises e Async/Await
+
+---
+
+## 🎯 Objetivos de Aprendizagem
+
+-   Dominar a manipulação de **Arrays** e **Objetos**
+-   Entender o funcionamento da **Manipulação do DOM**
+-   Implementar funcionalidades utilizando **Eventos**
+-   Construir projetos práticos que demonstrem o domínio dos conceitos ensinados
+
+---
+
+## 🔗 Links Úteis
+
+-   [Documentação Oficial do JavaScript (MDN)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+-   [Node.js](https://nodejs.org/en/)
+
+---
+
+## 🙌 Contribuições
+
+Embora este repositório seja de estudo pessoal, se tiveres alguma sugestão ou comentário, sente-te à vontade para abrir uma **issue** ou fazer um **pull request**.
+
+---
+
+## 📅 Atualizações Futuras
+
+-   [ ] Adicionar mais exemplos e projetos práticos.
+-   [ ] Incluir um projeto final completo, integrando todos os conceitos aprendidos.
+
+---
+
+Feito com ❤️ por [Paulo Guimarães](https://github.com/Pelinho03)
