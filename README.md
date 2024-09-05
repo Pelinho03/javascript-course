@@ -62,4 +62,4 @@ Embora este repositório seja de estudo pessoal, se tiveres alguma sugestão ou 
 
 ---
 
-Feito com ❤️ por [Paulo Guimarães](https://github.com/Pelinho03)
+Feito por [Paulo Guimarães](https://github.com/Pelinho03)
